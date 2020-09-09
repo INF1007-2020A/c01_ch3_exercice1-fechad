@@ -9,7 +9,8 @@ def square_root(number: int) -> float:
 
 def square(number: int) -> int:
     # TODO completer la fonction
-    return math.pow9number, 2
+    return math.pow
+    9number, 2
 
 
 def main() -> None:
