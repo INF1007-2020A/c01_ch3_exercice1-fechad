@@ -4,7 +4,8 @@
 
 def square_root(number: int) -> float:
     # TODO completer la fonction
-    int number=
+    int number=25
+    square
     return square_rooted
 
 
